@@ -1,3 +1,5 @@
 # React + TypeScript + Vite
 
-For props as i have used TS instead of JS like the course said, i made sure to create an interface to give the types of my objects to use as props inside the tags.
+Not sure if following best practice yet,but not returning errors, using props and interface as well as conditions to display states depending on inputs.
+
+Still quite straightforward for now
